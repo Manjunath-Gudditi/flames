@@ -2,6 +2,15 @@
 The game of FLAMES
 
 
+## How to Use
+1. clone the repo
+2. cd to directory 'flames'
+3. python3 main.py
+    a. Enter your name
+    b. Enter your crush name
+That's all, You will get the result on screen.
+
+
 ## Game
 
 Your Name: YOUR_NAME
