@@ -39,3 +39,10 @@ Crush Name: CRUSH_NAME
     c. flames_list.pop(index_to_strike_off)
 9. create full_forms_dict with keys as letters from flames_list - values their full forms # {'F': 'Friends', 'L': 'Love', ...}
 10. Print result from left over letter of flames_list fetching full form from full_forms_dict # full_forms_dict.get(flames_list[0])
+
+
+## Result of Mine with my Crush Sakkarakatti (motivation for this project of flames)
+*********************
+     Affectionate    
+*********************
+Thanks Goddess 
